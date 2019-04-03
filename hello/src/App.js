@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import { Welcome } from './WelcomeFunc';
+import { WelcomeFunc } from './WelcomeFunc';
+import { WelcomeClass } from './WelcomeClass';
 
 class App extends Component {
   render() {
@@ -20,7 +21,8 @@ class App extends Component {
           >
             Learn React
           </a>
-          <Welcome name="totoro"/>      
+          <WelcomeFunc name="WelcomeFunc"/>
+          <WelcomeClass name="WelcomeClass"/>
         </header>
         </div>
     );
