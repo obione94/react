@@ -11,8 +11,10 @@
     <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
 
     <script type="text/babel">
+        const name = 'JSX';
+        const element = <h1>Hello, world! with {name}</h1>;
         ReactDOM.render(
-            <h1>Hello, world! with JSX</h1>,
+            element,
             document.getElementById('root')
         );
     </script>
