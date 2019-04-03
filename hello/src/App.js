@@ -23,6 +23,8 @@ class App extends Component {
           </a>
           <WelcomeFunc name="WelcomeFunc"/>
           <WelcomeClass name="WelcomeClass"/>
+          <WelcomeClass name="WelcomeClass2"/>
+
         </header>
         </div>
     );
