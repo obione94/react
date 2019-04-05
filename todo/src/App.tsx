@@ -5,6 +5,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import TodoList from './TodoList';
 import { Todo } from './Todo';
 import TodoListForm from './TodoListForm';
+import Counter from './Counter';
+import CounterCountainer from './CounterCountainer';
 
 interface AppState {
   arr_todos:Todo[];
@@ -76,6 +78,7 @@ class App extends Component <any,AppState> {
       <div className="container">
         <TodoList todos={this.state.arr_todos} onDelete={this.deleteTodo}/>
         <TodoListForm value={this.state.todoForm} handleChange={this.handleChange}/>
+        <CounterCountainer/>
       </div>
     );
   }
