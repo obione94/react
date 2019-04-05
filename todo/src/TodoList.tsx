@@ -25,7 +25,6 @@ class TodoList extends React.Component<TodoListProps> {
                         <th scope="col">comleted</th>
                         <th scope="col">user_id</th>
                         <th scope="col">action</th>
-
                     </tr>
                 </thead>
                 <tbody>

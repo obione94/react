@@ -26,70 +26,42 @@
       "completed": true,
       "dueDate": 1553071701000,
       "user_id": 3,
-      "id": 1202
+      "id": 10
     },
     {
       "title": "Todo 10",
       "completed": true,
       "dueDate": 1553071701000,
       "user_id": 3,
-      "id": 102
+      "id": 10
     },
     {
       "title": "Todo 10",
       "completed": true,
       "dueDate": 1553071701000,
       "user_id": 3,
-      "id": 108
+      "id": 10
     },
     {
       "title": "Todo 10",
       "completed": true,
       "dueDate": 1553071701000,
       "user_id": 3,
-      "id": 210
+      "id": 10
     },
     {
       "title": "Todo 10",
       "completed": true,
       "dueDate": 1553071701000,
       "user_id": 3,
-      "id": 120
+      "id": 10
     },
     {
       "title": "Todo 10",
       "completed": true,
       "dueDate": 1553071701000,
       "user_id": 3,
-      "id": 2
-    },
-    {
-      "title": "Todo 10",
-      "completed": true,
-      "dueDate": 1553071701000,
-      "user_id": 3,
-      "id": 6
-    },
-    {
-      "title": "Todo 10",
-      "completed": true,
-      "dueDate": 1553071701000,
-      "user_id": 3,
-      "id": 98
-    },
-    {
-      "title": "Todo 10",
-      "completed": true,
-      "dueDate": 1553071701000,
-      "user_id": 3,
-      "id": 45
-    },
-    {
-      "title": "Todo 10",
-      "completed": true,
-      "dueDate": 1553071701000,
-      "user_id": 3,
-      "id": 67
+      "id": 10
     }
   ]
 }
